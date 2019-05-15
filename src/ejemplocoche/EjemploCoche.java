@@ -24,6 +24,7 @@ class coche {
         potencia = 0;
         m = motor();
 
+        //Esto se ha modificado
         num_coches = num_coches + 1;
     }
 
