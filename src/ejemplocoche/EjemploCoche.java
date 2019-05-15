@@ -24,7 +24,7 @@ class coche {
         potencia = 0;
         m = motor();
 
-        num_coches++;
+        num_coches = num_coches + 1;
     }
 
     //Constructor de copia
