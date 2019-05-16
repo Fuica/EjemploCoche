@@ -79,6 +79,7 @@ class coche {
         
     }
 
+    //Setter para el atributo color
     public void set_color(String c) {
         this.color = c;
     }
